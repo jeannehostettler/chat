@@ -1,0 +1,25 @@
+.formulaire {
+  .text {
+    display: flex;
+    width: 792px;
+    padding: 13px 31px;
+    border: 1px solid rgba(0, 0, 0, 0.58);
+    border-radius: 32px;
+    color: rgba(0, 0, 0, 0.56);
+    font-size: 32px;
+    font-weight: 500;
+  }
+  button {
+    font-size: 35px;
+    color: #ffff;
+    background-color: black;
+    padding: 12px;
+    border-radius: 50%;
+  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 0 30px;
+  margin-top: 20px;
+}
